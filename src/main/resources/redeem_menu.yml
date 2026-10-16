@@ -1,0 +1,3 @@
+# Redeem menu layout
+# rows - number of inventory rows (1-6, default 4)
+rows: 4
